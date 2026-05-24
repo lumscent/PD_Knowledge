@@ -231,3 +231,4 @@ MyLink относится к категории job board / career platform.
 ## Известные проблемы
 ```text
 products/mylink/known-problems.md
+products/mylink/ux-principles.md
