@@ -129,8 +129,4 @@ Claude должен использовать эти принципы при:
 
 ```text
 products/mylink/product-card.md
-products/mylink/key-flows.md
 products/mylink/known-problems.md
-patterns/patterns-index.md
-patterns/disabled-states.md
-templates/interface-task-template.md
